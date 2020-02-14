@@ -1,0 +1,10 @@
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\bin\Debug\netcoreapp3.1\example 5.8.exe
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\bin\Debug\netcoreapp3.1\example 5.8.deps.json
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\bin\Debug\netcoreapp3.1\example 5.8.runtimeconfig.json
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\bin\Debug\netcoreapp3.1\example 5.8.runtimeconfig.dev.json
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\bin\Debug\netcoreapp3.1\example 5.8.dll
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\bin\Debug\netcoreapp3.1\example 5.8.pdb
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\obj\Debug\netcoreapp3.1\example 5.8.AssemblyInfoInputs.cache
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\obj\Debug\netcoreapp3.1\example 5.8.AssemblyInfo.cs
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\obj\Debug\netcoreapp3.1\example 5.8.dll
+C:\Users\shariqkhan\Desktop\lab5\example 5.8\obj\Debug\netcoreapp3.1\example 5.8.pdb
