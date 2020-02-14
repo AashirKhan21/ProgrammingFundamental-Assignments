@@ -1,0 +1,11 @@
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\bin\Debug\netcoreapp3.1\labexercise1.exe
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\bin\Debug\netcoreapp3.1\labexercise1.deps.json
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\bin\Debug\netcoreapp3.1\labexercise1.runtimeconfig.json
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\bin\Debug\netcoreapp3.1\labexercise1.runtimeconfig.dev.json
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\bin\Debug\netcoreapp3.1\labexercise1.dll
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\bin\Debug\netcoreapp3.1\labexercise1.pdb
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\obj\Debug\netcoreapp3.1\labexercise1.AssemblyInfoInputs.cache
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\obj\Debug\netcoreapp3.1\labexercise1.AssemblyInfo.cs
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\obj\Debug\netcoreapp3.1\labexercise1.dll
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\obj\Debug\netcoreapp3.1\labexercise1.pdb
+C:\Users\shariqkhan\Desktop\lab5\labexercise1\obj\Debug\netcoreapp3.1\labexercise1.csprojAssemblyReference.cache

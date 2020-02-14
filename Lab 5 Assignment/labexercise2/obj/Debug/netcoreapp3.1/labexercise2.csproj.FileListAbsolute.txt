@@ -1,0 +1,10 @@
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\bin\Debug\netcoreapp3.1\labexercise2.exe
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\bin\Debug\netcoreapp3.1\labexercise2.deps.json
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\bin\Debug\netcoreapp3.1\labexercise2.runtimeconfig.json
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\bin\Debug\netcoreapp3.1\labexercise2.runtimeconfig.dev.json
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\bin\Debug\netcoreapp3.1\labexercise2.dll
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\bin\Debug\netcoreapp3.1\labexercise2.pdb
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\obj\Debug\netcoreapp3.1\labexercise2.AssemblyInfoInputs.cache
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\obj\Debug\netcoreapp3.1\labexercise2.AssemblyInfo.cs
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\obj\Debug\netcoreapp3.1\labexercise2.dll
+C:\Users\shariqkhan\Desktop\lab5\labexercise2\obj\Debug\netcoreapp3.1\labexercise2.pdb
